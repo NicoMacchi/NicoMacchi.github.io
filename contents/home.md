@@ -1,16 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![NicoMacchi](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/NicoMacchi)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Currently pursuing a Master's Degree in Mechanical Engineering, at Politecnico di Milano, Italy.
 
 #### Email
-sli[at]cumt.edu.cn
+niccolo.macchi99[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.Sc., Mechanical Engineering, Ground Vehicles track, Politecnico di Milano. Mar. 2022 – Dec. 2024
+- Final thesis topic: A Comprehensive Investigation on the Transmission Error
+Variability of different Spur Gear types in Time and Frequency Domai
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+
+B.Sc., Mechanical Engineering, Politecnico di Milano Sep. 2018 – Sep. 2021
+
+#### Interests
+* *
 
